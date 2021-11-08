@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Calculator Task"
+		},
+		{
+			"path": "..\\..\\Form Task"
+		},
+		{
+			"path": "..\\..\\Flag using JS"
+		},
+		{
+			"path": "..\\..\\CountDown Task"
+		},
+		{
+			"path": "..\\..\\Zen Class"
+		},
+		{
+			"path": "..\\..\\Open Brewary API"
+		},
+		{
+			"path": "..\\..\\Hackathan"
+		},
+		{
+			"path": "..\\..\\Task in Class"
+		},
+		{
+			"path": "..\\..\\my-app"
+		},
+		{
+			"path": "..\\..\\react-project"
+		},
+		{
+			"path": "..\\..\\shaflix"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my-app"
+	}
+}
